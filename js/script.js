@@ -1,17 +1,17 @@
 document.addEventListener('DOMContentLoaded', () => {
   const images = [
       {
-          url: 'images/bg1.jpg',
+          url: '../images/bg1.jpg',
           heading: 'Faculty Of Engineering And Technology',
           description: 'University of Sindh, Jamshoro'
       },
       {
-          url: 'images/bg2.jpg',
+          url: '../images/bg2.jpg',
           heading: 'Innovative Research and Development',
           description: 'Advancing Technology for Future'
       },
       {
-          url: 'images/coridor.jpg',
+          url: '../images/coridor.jpg',
           heading: 'Empowering Engineers',
           description: 'Shaping the World with Knowledge'
       }
